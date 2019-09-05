@@ -4,6 +4,14 @@
 
 [1]: https://www.npmjs.com/package/nodejs-logging?activeTab=versions
 
+### [5.2.3](https://www.github.com/googleapis/nodejs-logging/compare/v5.2.2...v5.2.3) (2019-09-05)
+
+
+### Bug Fixes
+
+* use correct version for x-goog-api-client header ([#565](https://www.github.com/googleapis/nodejs-logging/issues/565)) ([7b60835](https://www.github.com/googleapis/nodejs-logging/commit/7b60835))
+* use process versions object for client header ([#563](https://www.github.com/googleapis/nodejs-logging/issues/563)) ([2ec8662](https://www.github.com/googleapis/nodejs-logging/commit/2ec8662))
+
 ### [5.2.2](https://www.github.com/googleapis/nodejs-logging/compare/v5.2.1...v5.2.2) (2019-08-20)
 
 
